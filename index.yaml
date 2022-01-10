@@ -12,7 +12,7 @@ branding:
         logo: _images/logo.png
 tileInfo:
     - title: Openlabs Demo
-      id: openlabs_mock
+      id: openlabs_test1
       description: Easy to use immersive learning platform.
       logo: _images/logo.png
       gitLink: https://github.com/purva2412/catalog-test1.git
@@ -21,3 +21,14 @@ tileInfo:
         type: lite
         categories:
           - Learning
+tileInfo:
+    - title: Openlabs Demo
+      id: openlabs_test2
+      description: Easy to use immersive learning platform.
+      logo: _images/logo.png
+      gitLink: https://github.com/purva2412/catalog-test2.git
+      enabled: true
+      meta:
+        type: regular
+        categories:
+          - Develop
