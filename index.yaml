@@ -15,7 +15,7 @@ tileInfo:
       id: openlabs_mock
       description: Easy to use immersive learning platform.
       logo: _images/logo.png
-      gitLink: https://github.com/openlabs-explorer/demo
+      gitLink: https://github.com/purva2412/catalog-test1.git
       enabled: true
       meta:
         type: lite
