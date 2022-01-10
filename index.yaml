@@ -21,7 +21,6 @@ tileInfo:
         type: lite
         categories:
           - Learning
-tileInfo:
     - title: Openlabs Demo
       id: openlabs_test2
       description: Easy to use immersive learning platform.
