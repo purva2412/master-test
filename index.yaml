@@ -11,7 +11,7 @@ branding:
         text: IBM Openlabs
         logo: _images/logo.png
 tileInfo:
-    - title: Openlabs Demo
+    - title: Openlabs Test1
       id: openlabs_test1
       description: Easy to use immersive learning platform.
       logo: _images/logo.png
@@ -21,9 +21,9 @@ tileInfo:
         type: lite
         categories:
           - Learning
-    - title: Openlabs Demo
+    - title: Openlabs Test2
       id: openlabs_test2
-      description: Easy to use immersive learning platform.
+      description: Red Hat Marketplace is available in a growing number of locations. Select the country where your business is located.
       logo: _images/logo.png
       gitLink: https://github.com/purva2412/catalog-test2.git
       enabled: true
